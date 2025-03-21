@@ -6,5 +6,7 @@ After a couple of years working on the mechanical side at robotics startups, I'm
 
 You can documentation of a selection of design projects at my [personal website](https://www.gilsunshine.com).
 
+You can learn about the time I made almost anything [here](https://fab.cba.mit.edu/classes/863.20/Architecture/people/GilSunshine/index.html) or the time I made something that makes almost anything [here](https://fab.cba.mit.edu/classes/865.21/people/gilsunshine/systems.html).
+
 I'm currently open to new opportunities -- please be in touch if you would like to chat: gilsunshine at gmail dot com.
 
