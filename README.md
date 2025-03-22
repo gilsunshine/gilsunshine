@@ -3,7 +3,7 @@
 I'm a coder and designer (of mostly 3D things). I apply my expertise in geometry and software development in the context of 3D design to automate the analysis and generation of geometric data. I have interest and experience in computational design, digital fabrication and computer graphics. You can find a resume with my previous work experience [here](https://freight.cargo.site/m/N2269472599081060467723605375626/250306_Gil-Sunshine_Resume.pdf).
 <br><br>
 
-![average_assemblies](https://github.com/user-attachments/assets/e610ccdd-3e10-40c8-aa3a-803cd75594b0)
+![horizontal_saturated](https://github.com/user-attachments/assets/792b88dc-c384-41a9-9c27-279fc03efa47)
 <br><sub>*Geometric averages of mechanical components made with implicit surfaces.*<sub>
 
 <br>
