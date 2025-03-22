@@ -1,5 +1,7 @@
 # Hi, I'm Gil Sunshine. 
 
+![Uploading average_assemblies.gif…]()
+
 I'm a coder and designer (of mostly 3D things). I apply my expertise in geometry and software development in the context of 3D design to automate the analysis and generation of geometric data. I have interest and experience in computational design, digital fabrication and computer graphics. You can find a resume with my previous work experience [here](https://freight.cargo.site/m/N2269472599081060467723605375626/250306_Gil-Sunshine_Resume.pdf).
 
 After a couple of years working on the mechanical side of things at robotics startups, I'm now focusing my time and energy on developing software for 3D applications. I'm generally interested in projects that interface with the physical world whether that is through designing, making or sensing.
