@@ -1,6 +1,6 @@
 # Hi, I'm Gil Sunshine. 
 
-![Uploading average_assemblies.gif…]()
+![average_assemblies](https://github.com/user-attachments/assets/607150ae-90e3-4177-a5ea-d2384e7ce438)
 
 I'm a coder and designer (of mostly 3D things). I apply my expertise in geometry and software development in the context of 3D design to automate the analysis and generation of geometric data. I have interest and experience in computational design, digital fabrication and computer graphics. You can find a resume with my previous work experience [here](https://freight.cargo.site/m/N2269472599081060467723605375626/250306_Gil-Sunshine_Resume.pdf).
 
