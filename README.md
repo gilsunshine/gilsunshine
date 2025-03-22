@@ -1,5 +1,6 @@
 # Hi, I'm Gil Sunshine. 
 
+![AA 00_1_1_2](https://github.com/user-attachments/assets/6258aa3c-ad96-4af2-8949-f28e858a4614)
 
 I'm a coder and designer (of mostly 3D things). I apply my expertise in geometry and software development in the context of 3D design to automate the analysis and generation of geometric data. I have interest and experience in computational design, digital fabrication and computer graphics. You can find a resume with my previous work experience [here](https://freight.cargo.site/m/N2269472599081060467723605375626/250306_Gil-Sunshine_Resume.pdf).
 
@@ -8,7 +9,3 @@ After a couple of years working on the mechanical side of things at robotics sta
 You can find documentation of a selection of mostly design projects at my [personal website](https://www.gilsunshine.com). You can also learn about the time I made almost anything [here](https://fab.cba.mit.edu/classes/863.20/Architecture/people/GilSunshine/index.html) or the time I made something that makes almost anything [here](https://fab.cba.mit.edu/classes/865.21/people/gilsunshine/systems.html).
 
 I'm currently open to new opportunities -- please be in touch if you would like to chat: gilsunshine at gmail dot com.
-
-![AA 00_1_1_2](https://github.com/user-attachments/assets/6258aa3c-ad96-4af2-8949-f28e858a4614)
-
-![average_assemblies](https://github.com/user-attachments/assets/607150ae-90e3-4177-a5ea-d2384e7ce438)
